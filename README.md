@@ -1,1 +1,3 @@
 # TrainWebApp
+Collaborated with a team of four to design a train web application. Customers can make reservations for trains, view their reservations, and check how many seat are available on a transit line. Addtional features including checking train schedule based on origin, destination, data of travel, and ability to send questions to customer representatives. Admin functions include obtaining various sales reports and most active transit lines. Customer representatives can edit reservations, update train schedules, produce a list of train schedules, and answer customer questions. We utilized mySQL to store all the data. 
+Technologies Used: Java, JSP, AWS EC2, AWS RDS, mySQL, HTML, Apache Tomcat 
